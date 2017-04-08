@@ -4,18 +4,11 @@ layout: default
 
 {% include header.html %}
 
-<div class="wrapper">
-
-    <div class="layout">
-        <section class="layout__item  desk-three-fifths  s-post" data-ui-component="Main content" itemscope itemtype="http://schema.org/Article">
-
-            {{ content }}
-
-        </section>
-    </section>
-
-    </div>
-
+<div class="jumbotron">
+    <h1 class="h1 text-center">{{ page.pagename }}</h1>
+</div>
+<div class="container">
+    {{ content }}
 </div>
 
 {% include footer.html %}
