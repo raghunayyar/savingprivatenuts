@@ -137,7 +137,8 @@ All in all, the biggest lesson learned during the project is the process of work
 - website
 
 **Maiky (10h)**
-- parallel coordinates
+
+*parallel coordinates*
 - rescaling axes
 - bundling
 - multibrushing colors
