@@ -108,6 +108,17 @@ information visualization techniques within the medical context, like:
 - *Interactive Information Visualization to Explore and Query Electronic Health Records*, by Rind at al (2011)
 - *Beyond the Medical Chart - The power of visual representation of data to inform and affect health and medical science*, by H. Whitney, 2010.
 
+### Initial design (prototype)
+
+**Tomás - 8 hours**
+
+Before our first meeting, I explored different possibilities on how we could show the massive dataset we had in our 
+hands in pleasant ways. Some of them can be seen in the following pictures:
+
+![CAT](http://i.imgur.com/TTJI66H.png)
+
+[Link](https://marvelapp.com/7c58544)
+
 
 **Niek  - 10 hours**
 
@@ -118,6 +129,8 @@ visualization for our application. (click link in the image for interactive vers
 
 Worked on initial sketching both at home and in group meeting. The ones I suggested at the meeting was mainly the two seen in the picture below.
 
+![CAT](http://i.imgur.com/zTXeqme.png)
+
 
 
 ### Iteration on design (not implemented)
@@ -125,7 +138,11 @@ Worked on initial sketching both at home and in group meeting. The ones I sugges
 **Niek - 5 hours**
 
 This was a proposal I made for including a visualization that would visualize saved cohorts as spheres, linking the 
-radius to the cohort size and color to the cancer stage of the patient. 
+radius to the cohort size and color to the cancer stage of the patient.
+
+![CAT](http://i.imgur.com/Yvcdfzd.png)
+
+[Link](https://docs.google.com/presentation/d/1vqZ8IaGquMWcPiNBa75poPYyMoMo1BtPwRfcIeyKz_8/edit#slide=id.p)
 
 
 
@@ -136,6 +153,8 @@ radius to the cohort size and color to the cancer stage of the patient.
 One of the things I contributed to the team was to investigate how things could be distributed on the page and the user 
 path on it, given we had 2 different visual structures. The following images shows 3 different ways to do that. 
 
+![CAT](http://i.imgur.com/c5fyUf5.png)
+
 
 
 **Julia - 8 hours**
@@ -143,6 +162,8 @@ path on it, given we had 2 different visual structures. The following images sho
 I mainly focused on the sankey when it came to the architecture which resulted in the following suggestion:
 Other than that I provided the group with a paper prototype (that we also altered during a meeting) that was used to create 
 different structures, both in a design group meeting and a later meeting with the entire group:
+
+![CAT](http://i.imgur.com/JKTTJsr.png)
 
 
 ### Interactive prototype
@@ -152,6 +173,10 @@ After the design group meeting I started out assisting Niek with the design of t
 I started out using the design parts he delivered to create the interactive part of the prototype in Marvel. This was presented to the 
 rest of the group to proceed making design decisions (link connected to image).
 
+![CAT](http://i.imgur.com/cfPWp2Y.png)
+
+[Link](https://marvelapp.com/2c668g1/screen/25622629)
+
 
 ### Final Design (prototype)
 
@@ -159,6 +184,8 @@ rest of the group to proceed making design decisions (link connected to image).
 
 The final design was determined after the design meeting in which we discussed the position, size, color scheme 
 and graphics that would be used. (click link in the image for interactive version)
+
+![CAT](http://i.imgur.com/aFVkj3P.png)
 
 
 ### Film - Pre-Production
@@ -168,13 +195,19 @@ and graphics that would be used. (click link in the image for interactive versio
 We decided to emphasize the problem definition and our solution to it in the film. Using a script & 
 shot list we created an overview of the to do’s for the film. 
 
+![CAT](http://i.imgur.com/HBPhLZP.png)
+
+[Link]( https://docs.google.com/document/d/1-M0lLEb0v6HV3ll8dEVg7GHPjidxpoP7h2kyb3q_UDI/edit)
+
 
 ### Film - Production
 
 **Niek  - 10 hours**
 
 Recorded our main design meeting, the user evaluation with Olof, sketching session with Julia and the final presentation 
-to create the main thread of the film and to show the process that the team went through. 
+to create the main thread of the film and to show the process that the team went through.
+
+![CAT](http://i.imgur.com/xiU1hcO.png)
 
 
 **Julia - 6 hours**
@@ -187,12 +220,14 @@ preparation). Plus sketching session (and lamp shots) with Niek.
 
 **Niek  - 30 hours**
 
-The post-production combined the voiceover, camera recordings, screencasts, external footage and animations into one final version. 
+The post-production combined the voiceover, camera recordings, screencasts, external footage and animations into one final version.
+
+![CAT](http://i.imgur.com/TN1hlsS.png)
 
 **Julia - 6 hours**
 
 Helping out with choosing some of the footage, taking advantage of Nieks skills in order to learn some After Effects-skills. 
-Looked for sounds/sound effects for the movie. 
+Looked for sounds/sound effects for the movie.
 
 
 ### Naming 
@@ -203,6 +238,7 @@ When we first started working, we named our group as SavePrivateNuts. It is clea
 final one. One of the tasks I was responsible of was finding a new name for our group. I presented several options to the team, and we 
 ended up CAT - Cohort Analysis Tool. The following image is part of the brainstorm I did.
 
+![CAT](http://i.imgur.com/0s079Rb.png)
 
 ### Logo: 
 
@@ -218,6 +254,8 @@ I also was responsible for the logo. I tried different approaches, but we stick 
 I was responsible for designing our website as well. In the end, it was not implemented exactly as I designed, because the tool 
 I used was causing some troubles when uploading content.
 
+![CAT](http://i.imgur.com/Tuta8rM.png)
+
 
 ### Presentations - Project Proposal 
 
@@ -226,6 +264,10 @@ I used was causing some troubles when uploading content.
 The initial project proposal presentation was constructed by the team. I created an overall design and designed some 
 potential visualizations we talked about in our brainstorm (see link presentation slide 11/17)
 
+![CAT](http://i.imgur.com/oTow0sC.png)
+
+[Link](https://docs.google.com/presentation/d/1F_ITyYoesEi0LHsAXiaXEWeXMGBgXBjdwN0HTDKh5Ow/edit#slide=id.g1ccddd1638_25_25)
+
 
 ### Presentations - Final Presentation 
 
@@ -233,6 +275,9 @@ potential visualizations we talked about in our brainstorm (see link presentatio
 
 The presenters communicated what they wanted to discuss during the presentation and I combined those comments into the final presentation. 
 
+![CAT](http://i.imgur.com/n6Oq1ga.png)
+
+[Link](https://docs.google.com/presentation/d/1f1_MHbJ0dgGA3bfFokBcZ0CPF2ct0ndGpXTseKTo3VY/edit#slide=id.p)
 
 
 ### Presenting
