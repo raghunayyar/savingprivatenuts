@@ -1,6 +1,6 @@
 ---
 layout: team
-pagehead: Design
+page-head: Design
 ---
 
 ## Coordination

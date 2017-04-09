@@ -1,3 +1,7 @@
+---
+layout: team
+page-head: Development
+---
 ## Coordination
 
 #### Nilay, Raghu, Mai-Khanh
