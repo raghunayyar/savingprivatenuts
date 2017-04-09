@@ -5,16 +5,17 @@ page-head: Development
 ## Coordination
 
 #### Nilay, Raghu, Mai-Khanh
-The whole team met twice a week, about two-three hours each time, to discuss 
-progress, what each team managed to do since the last meeting, and future tasks. 
-On another hand, the programming team (Nilay, Raghu and I) constantly talked with 
-each other in order to divide the work between us so as to not overlap, and check 
-each other’s work when a task was done to validate everything. We used github and 
+The whole team met twice a week, about two-three hours each time, to discuss
+progress, what each team managed to do since the last meeting, and future tasks.
+On another hand, the programming team constantly talked with
+each other in order to divide the work between us so as to not overlap, and check
+each other’s work when a task was done to validate everything. We used github and
 trello for project management.
 
 
 ### Features that were not kept:
 
+**Nilay**
 - Old sankey (colors and nodes names)
 - Color-pairing sankey and pc (old colors)
 - Clickable links (instead of nodes)
@@ -24,9 +25,9 @@ trello for project management.
 
 
 #### Nilay, Raghu, Mai-Khanh
-The major aspect of this project was most definitely working in a team that is a melting pot of skills and nationalities, which was quite interesting and new. 
+The major aspect of this project was most definitely working in a team that is a melting pot of skills and nationalities, which was quite interesting and new.
 Since in the past I only worked in teams with programmers only, I realised that working with designers takes a big load off coders’ shoulders and helps making a more polished looking final application.
-All in all, the biggest lesson learned during the project is the process of working with different types of people and compromising, as well as adapting the workflow so that everybody can be satisfied. 
+All in all, the biggest lesson learned during the project is the process of working with different types of people and compromising, as well as adapting the workflow so that everybody can be satisfied.
 
 
 ### Contributions
@@ -63,7 +64,7 @@ All in all, the biggest lesson learned during the project is the process of work
 *Treating data*
 - Calculating real data for sankey
 - Merging all the data for the parallel coordinates in one file
-- Deciding which columns to keep (as a team), 
+- Deciding which columns to keep (as a team),
 - Creating/calculating new columns, modifying/merging some of the existing ones
 
 *others*
@@ -135,4 +136,3 @@ All in all, the biggest lesson learned during the project is the process of work
 - bundling
 - multibrushing colors
 - ordering axes’ ticks
-
