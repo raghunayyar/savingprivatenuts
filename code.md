@@ -29,7 +29,7 @@ Since in the past I only worked in teams with programmers only, I realised that 
 All in all, the biggest lesson learned during the project is the process of working with different types of people and compromising, as well as adapting the workflow so that everybody can be satisfied. 
 
 
-###Contributions
+### Contributions
 
 #### Iteration 1: Hello World demo
 
