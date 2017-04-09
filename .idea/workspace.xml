@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dd53f71-cc22-4918-8ae8-818509f6c517" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/code.md" afterPath="$PROJECT_DIR$/code.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design.md" afterPath="$PROJECT_DIR$/design.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,7 +17,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="code.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="code.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/code.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -51,12 +51,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="design.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="design.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/design.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="2968">
+                <caret line="213" column="0" lean-forward="true" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -139,11 +139,11 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/usertesting.md" />
-        <option value="$PROJECT_DIR$/design.md" />
         <option value="$PROJECT_DIR$/_layouts/team.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_layouts/home.html" />
         <option value="$PROJECT_DIR$/code.md" />
+        <option value="$PROJECT_DIR$/design.md" />
       </list>
     </option>
   </component>
@@ -333,7 +333,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10003000" />
+    <option name="totallyTimeSpent" value="10585000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -776,17 +776,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/team.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -855,6 +844,17 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="465">
             <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="2968">
+            <caret line="213" column="0" lean-forward="true" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

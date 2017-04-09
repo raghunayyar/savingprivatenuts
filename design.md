@@ -91,3 +91,136 @@ What I’ve learned from most is the design exercises we’ve done, as well as l
 asking Niek about design and film-parts of the project. I have some prior experience within design and 
 film but on a highly amateur-level and it’s been great to learn from him.
 
+
+## Tasks
+
+### Literature Research
+
+**Tomás - 10 hours**
+
+When we were assigned to the Prostate Cancer project, my first goal was to investigate, read and explore as much as I could 
+both prostate cancer and information visualization. This way I could bring some grounded ideas to the group. I focused my readings 
+both in broad readings about prostate cancer and the current context of the disease (occurrence, mortality, etc.) and in uses of 
+information visualization techniques within the medical context, like:
+
+- *Improving health and healthcare with interactive visualization methods*, by Shneiderman, Plaisant and Hesse (2013)
+- *A Visual-interactive System for Prostate Cancer Stratifications*, by Bernard et al, 2014.
+- *Interactive Information Visualization to Explore and Query Electronic Health Records*, by Rind at al (2011)
+- *Beyond the Medical Chart - The power of visual representation of data to inform and affect health and medical science*, by H. Whitney, 2010.
+
+
+**Niek  - 10 hours**
+This is the 1st design that was created based on sketches of a group meeting in which we discussed the primary type of 
+visualization for our application. (click link in the image for interactive version)
+
+**Julia - 6 hours**
+Worked on initial sketching both at home and in group meeting. The ones I suggested at the meeting was mainly the two seen in the picture below.
+
+
+
+### Iteration on design (not implemented)
+
+**Niek - 5 hours**
+This was a proposal I made for including a visualization that would visualize saved cohorts as spheres, linking the 
+radius to the cohort size and color to the cancer stage of the patient. 
+
+
+
+### Tool Architecture (prototype)
+
+**Tomás - 8 hours**
+One of the things I contributed to the team was to investigate how things could be distributed on the page and the user 
+path on it, given we had 2 different visual structures. The following images shows 3 different ways to do that. 
+
+
+
+**Julia - 8 hours**
+I mainly focused on the sankey when it came to the architecture which resulted in the following suggestion:
+Other than that I provided the group with a paper prototype (that we also altered during a meeting) that was used to create 
+different structures, both in a design group meeting and a later meeting with the entire group:
+
+
+### Interactive prototype
+
+**Julia - 7 hours**
+After the design group meeting I started out assisting Niek with the design of the prototype, but when that proved somewhat ineffective 
+I started out using the design parts he delivered to create the interactive part of the prototype in Marvel. This was presented to the 
+rest of the group to proceed making design decisions (link connected to image).
+
+
+### Final Design (prototype)
+
+**Niek  - 30 hours**
+The final design was determined after the design meeting in which we discussed the position, size, color scheme 
+and graphics that would be used. (click link in the image for interactive version)
+
+
+### Film - Pre-Production
+
+**Niek  - 10 hours**
+We decided to emphasize the problem definition and our solution to it in the film. Using a script & 
+shot list we created an overview of the to do’s for the film. 
+
+
+### Film - Production
+
+**Niek  - 10 hours**
+Recorded our main design meeting, the user evaluation with Olof, sketching session with Julia and the final presentation 
+to create the main thread of the film and to show the process that the team went through. 
+
+
+**Julia - 6 hours**
+Watching video pitches and business proposals to try and get a hang of how it can look and what might have been useful in our video. (Personal 
+preparation). Plus sketching session (and lamp shots) with Niek.
+
+
+### Post-Production
+
+**Niek  - 30 hours**
+The post-production combined the voiceover, camera recordings, screencasts, external footage and animations into one final version. 
+
+**Julia - 6 hours**
+Helping out with choosing some of the footage, taking advantage of Nieks skills in order to learn some After Effects-skills. 
+Looked for sounds/sound effects for the movie. 
+
+
+### Naming 
+
+**Tomás - 2 hours**
+When we first started working, we named our group as SavePrivateNuts. It is clear that this was a working name, not a 
+final one. One of the tasks I was responsible of was finding a new name for our group. I presented several options to the team, and we 
+ended up CAT - Cohort Analysis Tool. The following image is part of the brainstorm I did.
+
+
+### Logo: 
+
+**Tomás - 4 hours**
+I also was responsible for the logo. I tried different approaches, but we stick with one that shows the main feature (parallel coordinates) together with the name.
+
+
+### Website
+
+**Tomás - 7 hours**
+I was responsible for designing our website as well. In the end, it was not implemented exactly as I designed, because the tool 
+I used was causing some troubles when uploading content.
+
+
+### Presentations - Project Proposal 
+
+**Niek - 7  hours**
+The initial project proposal presentation was constructed by the team. I created an overall design and designed some 
+potential visualizations we talked about in our brainstorm (see link presentation slide 11/17)
+
+
+### Presentations - Final Presentation 
+
+**Niek - 8 hours**
+
+The presenters communicated what they wanted to discuss during the presentation and I combined those comments into the final presentation. 
+
+
+
+### Presenting
+
+**Tomás - 2 hours**
+I was one of the responsibles for giving both presentations in classroom.  To do it, I had to prepare myself, organize content, revise slides, etc.
