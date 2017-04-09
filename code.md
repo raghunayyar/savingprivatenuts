@@ -2,6 +2,12 @@
 layout: team
 page-head: Development
 ---
+## Meetings
+
+#### Nilay, Raghu, Mai-Khanh
+Team Meetings (15 hours)
+
+
 ## Coordination
 
 #### Nilay, Raghu, Mai-Khanh
